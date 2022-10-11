@@ -1,0 +1,113 @@
+.main {
+  background: url(./image/pexels-nataliya-vaitkevich-6120398.jpg);
+  background-position: relative;
+  background-size: cover;
+  margin: 0;
+  height: 150vh;
+  width: 100%;
+}
+nav img {
+  width: 80px;
+  float: left;
+  margin: 10px;
+}
+nav ul {
+  float: right;
+}
+nav ul li {
+  display: inline-block;
+  padding-left: 10px;
+  margin-right: 20px;
+  color: #fff;
+}
+.head h1 {
+  color: rgb(163, 128, 14);
+  margin-top: 20%;
+}
+.head h1:hover {
+  color: rgb(169, 145, 85);
+}
+.head p {
+  color: aqua;
+  width: 80%;
+}
+.list {
+  /* background-color: white; */
+  margin-left: 10px;
+  width: 20%;
+  border: solid;
+  border-color: darkgoldenrod;
+  border-radius: 20px;
+  border-width: 4px;
+  margin-top: 10%;
+}
+.list h2 {
+  color: aliceblue;
+  margin-left: 80px;
+  text-decoration: underline darkgoldenrod;
+}
+.list ul li {
+  list-style: none;
+  color: aliceblue;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+/* creating of achievements */
+.studies h2 {
+  color: blueviolet;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: x-large;
+}
+.studies p {
+  font-size: larger;
+}
+.studies p:hover {
+  background-color: antiquewhite;
+}
+.placement h2 {
+  color: rgb(180, 46, 77);
+  text-decoration: underline;
+  font-style: italic;
+  font-size: x-large;
+}
+.placement p {
+  font-size: larger;
+}
+.placement p:hover {
+  background-color: antiquewhite;
+}
+.sport h2 {
+  color: rgb(14, 109, 84);
+  text-decoration: underline;
+  font-style: italic;
+  font-size: x-large;
+}
+.sport p {
+  font-size: larger;
+}
+.sport p:hover {
+  background-color: antiquewhite;
+}
+.culture h2 {
+  color: rgb(54, 91, 140);
+  text-decoration: underline;
+  font-style: italic;
+  font-size: x-large;
+}
+.culture p {
+  font-size: larger;
+}
+.culture p:hover {
+  background-color: antiquewhite;
+}
+.quote h3 {
+  color: rgb(218, 106, 31);
+}
+.quote p {
+  background-color: coral;
+  height: 50px;
+  width: 20%;
+  font-size: x-large;
+  border-radius: 10px 0 10px 0;
+}

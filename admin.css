@@ -1,0 +1,169 @@
+/* creationof admission form */
+.main {
+  width: 100%;
+  height: 220vh;
+  background: url(./image/pexels-gradienta-7130473.jpg);
+  background-position: relative;
+  background-size: cover;
+  margin: 0;
+}
+nav img {
+  width: 80px;
+  float: left;
+  margin: 10px;
+}
+nav ul {
+  float: right;
+}
+nav ul li {
+  display: inline;
+  padding-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+nav ul li:hover {
+  text-decoration: underline;
+  color: darkorange;
+}
+.head h1 {
+  margin-top: 10%;
+  color: aqua;
+  text-decoration: underline;
+}
+.apply {
+  border-style: solid;
+  border-radius: 50px;
+  width: 80%;
+  margin-top: 60px;
+}
+/* input columns */
+#name {
+  margin-right: 60px;
+  border-radius: 5px;
+  height: 30px;
+}
+#father {
+  margin-right: 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+  height: 30px;
+}
+#mother {
+  margin-left: 2px;
+  border-radius: 5px;
+  margin-top: 10px;
+  height: 30px;
+}
+#male {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#age {
+  margin-top: 10px;
+  margin-left: 90px;
+  border-radius: 5px;
+  height: 30px;
+}
+#dob {
+  margin-top: 10px;
+  margin-left: 90px;
+  border-radius: 5px;
+  height: 30px;
+}
+#code {
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+}
+#contact {
+  margin-right: 250px;
+  border-radius: 5px;
+  height: 30px;
+}
+#mail {
+  margin-top: 10px;
+  margin-left: 65px;
+  border-radius: 5px;
+  height: 30px;
+}
+#address {
+  margin-top: 10px;
+  margin-right: 25px;
+  border-radius: 5px;
+  height: 60px;
+}
+#permanent {
+  margin-top: 10px;
+  margin-right: 45px;
+  border-radius: 5px;
+  height: 60px;
+}
+#sslc {
+  margin-top: 10px;
+  width: 40px;
+  margin-left: 40px;
+  border-radius: 5px;
+  height: 30px;
+}
+#hsc {
+  width: 40px;
+  border-radius: 5px;
+  height: 30px;
+}
+#group {
+  border-radius: 5px;
+  height: 30px;
+}
+#course {
+  margin-top: 10px;
+  margin-right: 105px;
+  border-radius: 5px;
+  height: 30px;
+}
+#major {
+  margin-top: 10px;
+  margin-right: 110px;
+  border-radius: 5px;
+  height: 30px;
+}
+button {
+  margin-top: 20px;
+  margin-left: 20%;
+  border-radius: 50px;
+  height: 40px;
+  width: 120px;
+  background-color: orange;
+  margin-bottom: 30px;
+}
+button:hover {
+  background-color: rgb(139, 56, 26);
+}
+/* label columns */
+#name1 {
+  margin-left: 130px;
+}
+#dad {
+  margin-left: 30px;
+}
+#mark {
+  margin-left: 60px;
+}
+#gender {
+  margin-right: 80px;
+}
+#branch {
+  margin-left: 220px;
+}
+#call {
+  margin-left: 250px;
+}
+/* footer notes */
+.note {
+  margin-left: 10px;
+}
+.note h3 {
+  text-decoration: underline;
+}
